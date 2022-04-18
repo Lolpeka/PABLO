@@ -1,0 +1,68 @@
+body {
+    margin: 0;
+}
+
+.header {
+    background: black;
+    width: 375px;
+    height: 74px;
+    display: flex;
+}
+
+.logo {
+    width: 44px;
+    height: 38px;
+    padding-top: 18px;
+    padding-left: 16px;
+}
+
+.sreah {
+    width: 26px;
+    height: 26px;
+    padding-top: 28px;
+    margin-left: 41px;
+    justify-content:space-between;
+}
+
+.menu {
+    width: 32px;
+    height: 23px;
+    padding-top: 25px;
+    margin-left: 200px;
+}
+
+.zagalovok {
+    background: #F1E4E6;
+    width: 375px;
+    height: 363px;
+    display: flex;
+}
+
+.palka {
+    width: 12px;
+    height: 61px;
+    padding-top: 150px;
+    padding-bottom: 152px;
+    padding-left: 56px;
+}
+
+.zagalovok-2 {
+    color: black;
+    justify-content: space-between;
+    margin-top: 148px;
+    margin-left: 15px;
+    margin-right: 56px;
+}
+
+.dd {
+    font-family: 'Lato', sans-serif;
+}
+
+.ss {
+    font-family: 'Lato', sans-serif;
+}
+
+.ff {
+    color: pink;
+    font-family: 'Lato', sans-serif;
+}
